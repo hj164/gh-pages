@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hj-research-design.com/sitemap.xml

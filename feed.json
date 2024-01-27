@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Personal website",
+    "description": "",
+    "home_page_url": "https://hj-research-design.com",
+    "feed_url": "https://hj-research-design.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Han Jiang"
+    },
+    "items": [
+        {
+            "id": "https://hj-research-design.com/x.html",
+            "url": "https://hj-research-design.com/x.html",
+            "title": "x",
+            "author": {
+                "name": "Han Jiang"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-27T01:08:22+00:00",
+            "date_modified": "2024-01-27T01:08:22+00:00"
+        }
+    ]
+}
