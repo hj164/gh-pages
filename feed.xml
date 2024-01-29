@@ -1,24 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Han Jiang Researcher Designer</title>
+    <title>Han Jiang</title>
     <link href="https://hj164.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://hj164.github.io/gh-pages" />
-    <updated>2024-01-27T01:08:22+00:00</updated>
+    <updated>2024-01-29T00:33:22+00:00</updated>
     <author>
         <name>Han Jiang</name>
     </author>
     <id>https://hj164.github.io/gh-pages</id>
 
     <entry>
-        <title>x</title>
+        <title>Strategy Development for Research &amp; Innovation</title>
         <author>
             <name>Han Jiang</name>
         </author>
-        <link href="https://hj164.github.io/gh-pages/x.html"/>
-        <id>https://hj164.github.io/gh-pages/x.html</id>
+        <link href="https://hj164.github.io/gh-pages/strategy-development-for-research-and-innovation/"/>
+        <id>https://hj164.github.io/gh-pages/strategy-development-for-research-and-innovation/</id>
+        <media:content url="https://hj164.github.io/gh-pages/media/posts/3/photo-1497409988347-cbfaac2f0b12.avif" medium="image" />
+            <category term="Digitalisation"/>
 
-        <updated>2024-01-27T01:08:22+00:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2024-01-29T00:29:47+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hj164.github.io/gh-pages/media/posts/3/photo-1497409988347-cbfaac2f0b12.avif" alt="" />
+                    Project Summary The Institute for Digital Culture is a pioneering research centre in helping cultural sectors adapt to digital transformation. They planned to establish research hubs in different regions. I acted as a research assistant to pilot a study that paved the way for the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hj164.github.io/gh-pages/media/posts/3/photo-1497409988347-cbfaac2f0b12.avif" class="type:primaryImage" alt="" /></p>
+                <h3>Project Summary</h3>
+<p>The Institute for Digital Culture is a pioneering research centre in helping cultural sectors adapt to digital transformation. They planned to establish research hubs in different regions. I acted as a research assistant to pilot a study that paved the way for the first hub, the "Digital Culture Observatory". It reviewed existing research strategies on digital activities in cultural institutions, and envisioned a series of future-oriented policies and strategies.</p>
+<h6>Goal</h6>
+<p>To review the current landscape of cross-sectoral and cross-institutional research collaborations within cultural institutions. As one of the Institute's first research projects with their partners, the goal is to pave the way for establishing the Observatory - a research hub dedicated to digital culture in Australia.</p>
+<h6>My Role</h6>
+<ul>
+<li>Strategic analysis &amp; development</li>
+<li>Literature review </li>
+</ul>
+<h3>Methods</h3>
+<h6>Scoping Review</h6>
+<p>I led a review of research strategies related to technology R&amp;D in 30+ cultural institutions, examining their outputs and impact. Using insights garnered from this exploration, the team formulated practical guidelines for both practice and action research tailored to cultural institutions in Australia.</p>
+<h3>Key Insights</h3>
+<p>Based on the scoping review, I developed a taxonomy of human-centred research strategies:</p>
+<ul>
+<li><strong>Practice-based Research</strong> fosters co-creation and experimentation in museums.</li>
+<li><strong>Applied Research</strong> uses evidence-informed evaluation to drive the development of impactful solutions, creating tangible benefits for individuals and communities in the long term.</li>
+<li><strong>Participatory Research</strong> promotes community engagement and social change. It is the fundation of human-centred research .</li>
+<li><strong>Innovative Research Translation</strong> challenges conventional research strategies. Using multisensory technologies as creative mediums, it expands the accessibility and reach of research outcomes.</li>
+</ul>
+<h3>Impact </h3>
+<p class="whitespace-pre-wrap">The research supported Monash University and the Australian National University in curating a seminar series that built digital research capacity. It initiated partnerships between the Institute for Digital Culture and Australian cultural sectors.</p>
+<figure class="post__image post__image--full"><img loading="lazy"  src="https://hj164.github.io/gh-pages/media/posts/3/photo-1497409988347-cbfaac2f0b12-2.avif" alt="" width="2070" height="1380"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Han Jiang</name>
+        </author>
+        <link href="https://hj164.github.io/gh-pages/x/"/>
+        <id>https://hj164.github.io/gh-pages/x/</id>
+
+        <updated>2024-01-28T01:32:09+00:00</updated>
+            <summary>
+                <![CDATA[
+                    👋 Hi, I am Han. I research and design the human side of digital transformation. When I was a curator intern, I noticed a lot of racially biased legacy data in the collection database. I created the very first spreadsheet to map out these entries&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center">     <img loading="lazy"  src="https://hj164.github.io/gh-pages/media/posts/1/notion-avatar-1696932727459.png" alt="" width="138" height="138" sizes="100vw" srcset="https://hj164.github.io/gh-pages/media/posts/1/responsive/notion-avatar-1696932727459-xs.png 300w ,https://hj164.github.io/gh-pages/media/posts/1/responsive/notion-avatar-1696932727459-sm.png 480w ,https://hj164.github.io/gh-pages/media/posts/1/responsive/notion-avatar-1696932727459-md.png 768w ,https://hj164.github.io/gh-pages/media/posts/1/responsive/notion-avatar-1696932727459-lg.png 1024w ,https://hj164.github.io/gh-pages/media/posts/1/responsive/notion-avatar-1696932727459-xl.png 1360w ,https://hj164.github.io/gh-pages/media/posts/1/responsive/notion-avatar-1696932727459-2xl.png 1600w"></figure>
+<p class="align-left"><strong>👋 Hi, I am Han. I research and design the human side of digital transformation.</strong></p>
+<p>When I was a curator intern, I noticed a lot of racially biased legacy data in the collection database. I created the very first spreadsheet to map out these entries at that institution. Soon, other researchers were using it in their projects.</p>
+<p>But it was not enough. There is huge amount of biased data in institutions worldwide, most of them were not open to the public. When I discussed with a professor in my postgrad about how organisations needed a mindset shift to embrace technological change, she said "they are not ready." </p>
+<p>The change did come anyway. The following year, I started my PhD when "metaverse" and "AI" became buzzwords. Many industries flocked to new technological solutions without thinking about social impact. These include organisations such as museums, where implementing new technology is often considered “challenging”. So, I decided to develop a guideline and a workbook to help them formulate long-term strategies. The goal was not to make digital transformation less "challenging" in the future, but to enhance their ability to identify what the transformation entails.</p>
+<p><strong>This is what I do: I use research to get people embracing change. I build things to future-proof pathways to change.</strong></p>
+<p>I enjoy translating research into catalysts for change. During my PhD, I conducted 2 qualitative studies with cultural organisations in the UK and Australia. The results turned into a report and seminar series on future-oriented digital strategies.</p>
+<p>I also brought 2 award-winning culture and education apps to life. I streamlined experimental UX workflows, including co-design with AI agents.</p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">I advocate for digital infrastructure development to be collaborative, beyond organisational or national silos. I lectured at universities, networks, and conferences to help people to discover their oppportunities for collaboration and catalysts for change. </span></p>
+<p>I love to work with people. I love to observe and talk to people to understand how they make meanings with technologies. I enjoy creating solutions for them while working with experts.</p>
+<p>Why? Because without knowing how people feel and use them, you will only innovate blindly. Afterall, it's all about how us, <strong>humans</strong>, can better inhabit in this world.</p>
+<p>You can view my full CV on<span style="color: #000000;"> <span style="color: #2dc26b;"><a href="https://www.linkedin.com/in/han-jiang-8142941b4/" style="color: #2dc26b;">LinkedIn</a></span></span>.</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Transnational Education Partnerships</title>
+        <author>
+            <name>Han Jiang</name>
+        </author>
+        <link href="https://hj164.github.io/gh-pages/digital-observatory/"/>
+        <id>https://hj164.github.io/gh-pages/digital-observatory/</id>
+        <media:content url="https://hj164.github.io/gh-pages/media/posts/2/transnational-2.avif" medium="image" />
+            <category term="Digitalisation"/>
+
+        <updated>2024-01-29T00:33:22+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hj164.github.io/gh-pages/media/posts/2/transnational-2.avif" alt=" " />
+                    Project Summary The School of Museum Studies is the leading curatorial research centre in the UK. They want to expand their partnerships with universities in Asia. This project is a pilot study to understand how education partnerships form between universities and cultural organisations in Western&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hj164.github.io/gh-pages/media/posts/2/transnational-2.avif" class="type:primaryImage" alt=" " /></p>
+                <h3>Project Summary</h3>
+<p class="whitespace-pre-wrap">The School of Museum Studies is the leading curatorial research centre in the UK. They want to expand their partnerships with universities in Asia. This project is a pilot study to understand how education partnerships form between universities and cultural organisations in Western and developing countries. I analysed how transnational curatorial education develop within emerging cultural centres, particularly in China, Qatar, and Saudi Arabia. </p>
+<h6>Goal</h6>
+<p>Map out the landscape of transnational education in 3 months of project cycle. Develop a report that offers adivce on partnership research and development.</p>
+<h6>My Role</h6>
+<ul>
+<li>In-depth interviews &amp; analysis</li>
+<li>Policy research</li>
+<li>Report writing </li>
+</ul>
+<h3>Methods</h3>
+<h6>Policy Review</h6>
+<p>I started by developing a spreadsheet covering current higher education programmes about museums and heritage at branch campuses of Western universities. I analysed institutional policy documents relating to their partners and course development.</p>
+<h6>Semi-structured Interview</h6>
+<p>From 30 education programmes analysed, I identified 7 case studies and conducted 8 semi-structured interviews with selected participants. This informed strategies for their future partnership-building.</p>
+<h3>Key Insights</h3>
+<ul>
+<li>Three types of transnational partnerships identified: branch campus, joint degree programmes, and professional training programmes.</li>
+<li>Transnational education strengthened partnerships between universities, as well as between universities and local museums.</li>
+<li>Local organisations had limited ownership of education programmes because most of the curriculum development was led by the Western institutions.</li>
+<li>The pandemic, miscommunications, and different organisational cultures and policies posed significant challenges in partnership management.</li>
+</ul>
+<h3>Impact</h3>
+<p>We delivered a report that presented the landscape of transnational collaborations between universities, governments and cultural organisations in China and the Middle East.</p>
+<p>Our report was featuerd in a panel discussion at the Anthropology and Education Conference 2024 (Royal Anthropological Institute, London). Our findings secured a funding for future development of the project.</p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
 </feed>
