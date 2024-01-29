@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://hj164.github.io/gh-pages/publications/",
+            "url": "https://hj164.github.io/gh-pages/publications/",
+            "title": "Speaking &amp; Writing ",
+            "summary": "Publications Talks",
+            "content_html": "<h1>Publications</h1>\n<h1>Talks</h1>",
+            "author": {
+                "name": "Han Jiang: Design Research &amp; Strategy"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-29T14:26:10+00:00",
+            "date_modified": "2024-01-29T14:27:50+00:00"
+        },
+        {
             "id": "https://hj164.github.io/gh-pages/strategy-development-for-research-and-innovation/",
             "url": "https://hj164.github.io/gh-pages/strategy-development-for-research-and-innovation/",
             "title": "Strategy Development for Research &amp; Innovation",

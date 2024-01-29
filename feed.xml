@@ -3,12 +3,33 @@
     <title>Han Jiang</title>
     <link href="https://hj164.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://hj164.github.io/gh-pages" />
-    <updated>2024-01-29T13:33:32+00:00</updated>
+    <updated>2024-01-29T14:27:50+00:00</updated>
     <author>
         <name>Han Jiang: Design Research &amp; Strategy</name>
     </author>
     <id>https://hj164.github.io/gh-pages</id>
 
+    <entry>
+        <title>Speaking &amp; Writing </title>
+        <author>
+            <name>Han Jiang: Design Research &amp; Strategy</name>
+        </author>
+        <link href="https://hj164.github.io/gh-pages/publications/"/>
+        <id>https://hj164.github.io/gh-pages/publications/</id>
+
+        <updated>2024-01-29T14:27:50+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Publications Talks
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Publications</h1>
+<h1>Talks</h1>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Strategy Development for Research &amp; Innovation</title>
         <author>
