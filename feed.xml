@@ -3,12 +3,153 @@
     <title>Han Jiang</title>
     <link href="https://hj164.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://hj164.github.io/gh-pages" />
-    <updated>2024-01-29T15:29:10+00:00</updated>
+    <updated>2024-02-02T18:42:33+00:00</updated>
     <author>
         <name>Han Jiang: Design Research &amp; Strategy</name>
     </author>
     <id>https://hj164.github.io/gh-pages</id>
 
+    <entry>
+        <title>Keeping Safe Online</title>
+        <author>
+            <name>Han Jiang: Design Research &amp; Strategy</name>
+        </author>
+        <link href="https://hj164.github.io/gh-pages/keeping-safe-online/"/>
+        <id>https://hj164.github.io/gh-pages/keeping-safe-online/</id>
+        <media:content url="https://hj164.github.io/gh-pages/media/posts/6/prateek-katyal-xv7-GlvBLFw-unsplash.jpg" medium="image" />
+            <category term="Digitalisation"/>
+
+        <updated>2024-02-02T18:42:33+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hj164.github.io/gh-pages/media/posts/6/prateek-katyal-xv7-GlvBLFw-unsplash.jpg" alt="" />
+                    Summary A 4-week research project that developed practical guidance for cultural organisation workers to engage in social media activism, addressing challenges such as misinformation, hate speech, and censorship. The culture sector faces an urgent need to provide guidance on engaging in meaningful online activism while&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hj164.github.io/gh-pages/media/posts/6/prateek-katyal-xv7-GlvBLFw-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <h3 class="p1">Summary</h3>
+<p class="p1">A 4-week research project that developed practical guidance for cultural organisation workers to engage in social media activism, addressing challenges such as misinformation, hate speech, and censorship.</p>
+<h3 class="p1">Role</h3>
+<ul>
+<li class="p1">Rapid review</li>
+<li>Workshop facilitation</li>
+<li>Qualitative analysis</li>
+</ul>
+<h3 class="p1">Challenges</h3>
+<p class="p1">The culture sector faces an urgent need to provide guidance on engaging in meaningful online activism while ensuring individual safety, institutional integrity, and compliance with regulations like the controversial Online Safety Bill draft developed in 2021.</p>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://i0.wp.com/inforrm.org/wp-content/uploads/2021/07/Online-Safety-Bill.jpg?ssl=1" alt="Harm Version 4.0: the Online Safety Bill in metamorphosis, Part I,  Introduction and Strand 1 – Graham Smith – Inforrm's Blog" width="477" height="282" data-is-external-image="true"></figure>
+<figcaption >Draft Online Safety Bill might limit free speech and restrict open discussion, leading to a chilling effect on online expression.</figcaption>
+</figure>
+<h3 class="p1">Goals</h3>
+<p class="p1">The research answered these questions:</p>
+<ul class="ul1">
+<li class="li1">How do museum professionals experience risks and rewards of engaging in activism on social media? How do they ensure online safety?</li>
+<li class="li1">What responsibilities do institutions and sectors have in addressing these issues?</li>
+</ul>
+<h3 class="p1">Methods</h3>
+<p class="p1"><strong>Rapid literature review: </strong>I led a rapid review of current sectoral and organisational policy on social media use. </p>
+<p><strong>Focus group workshops: </strong>7 cultural organisation professionals and 6 cross-disciplinary researchers were recruited for co-creation activities in 2 online workshops:</p>
+<ul>
+<li>Workshop 1: To brainstorm with cultural organisation workers to identify pain points in their social media engagement</li>
+<li>Workshop 2: To lead researchers explore solutions to these challenges and risks</li>
+</ul>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://hj164.github.io/gh-pages/media/posts/6/Untitled.png" alt="" width="607" height="323" sizes="100vw" srcset="https://hj164.github.io/gh-pages/media/posts/6/responsive/Untitled-xs.png 300w ,https://hj164.github.io/gh-pages/media/posts/6/responsive/Untitled-sm.png 480w ,https://hj164.github.io/gh-pages/media/posts/6/responsive/Untitled-md.png 768w ,https://hj164.github.io/gh-pages/media/posts/6/responsive/Untitled-lg.png 1024w ,https://hj164.github.io/gh-pages/media/posts/6/responsive/Untitled-xl.png 1360w ,https://hj164.github.io/gh-pages/media/posts/6/responsive/Untitled-2xl.png 1600w">
+<figcaption >Workshop discussions</figcaption>
+</figure>
+<p class="p1"><strong>Triangulation</strong>: Key themes extracted from the interviews were triangulated with rapid review findings, and analysed in the report.</p>
+<h3>Key Insights</h3>
+<ul class="ul1">
+<li class="li1">There has been no systematic support to help museum professionals to reflect on the risks and rewards of using social media at work.</li>
+<li class="li1">Benefits of social media engagement: improving inclusivity and accessibility, promoting workers’ career profile, and building mutual trust between museums and communities. </li>
+<li class="li1">Harms of social media engagement:
+<ul class="ul1">
+<li class="li1">Self-censorship: Feeling the need to suppress cultural workers' own opinions or ideas due to fear of public backlash.</li>
+<li class="li1">Mental health issues: Experiencing stress, anxiety, or other mental health challenges, such as cyberbullying or negative online interactions.</li>
+<li class="li1">Blurring of institutional and individual boundaries: Difficulty separating personal views from those of the cultural organisation, leading to potential conflicts or misunderstandings.</li>
+</ul>
+</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Design Heuristics: FeelTheArt®</title>
+        <author>
+            <name>Han Jiang: Design Research &amp; Strategy</name>
+        </author>
+        <link href="https://hj164.github.io/gh-pages/design-heuristics-feeltheartr/"/>
+        <id>https://hj164.github.io/gh-pages/design-heuristics-feeltheartr/</id>
+        <media:content url="https://hj164.github.io/gh-pages/media/posts/5/Screenshot-2023-06-15-at-21.33.25.png" medium="image" />
+            <category term="UX"/>
+
+        <updated>2024-01-29T15:40:48+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hj164.github.io/gh-pages/media/posts/5/Screenshot-2023-06-15-at-21.33.25.png" alt="" />
+                    Summary FeelTheArt is a mobile application designed to enable users to create augmented exhibitions and virtual galleries with artworks from famous museums.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hj164.github.io/gh-pages/media/posts/5/Screenshot-2023-06-15-at-21.33.25.png" class="type:primaryImage" alt="" /></p>
+                <div id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l0od4ouk" class="QOX0dS JCRlLH comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l0od4ouk-container comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l0od4ouk wixui-box">
+<div id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb" class="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb-container">
+<div id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l1hr1gi4" class="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l1hr1gi4-container">
+<div id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l1hr1gi44" class="QOX0dS JCRlLH comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l1hr1gi44-container comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l1hr1gi44 wixui-box">
+<div id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l1hr2y3p" class="Mdue19 comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l1hr2y3p wixui-repeater">
+<div class="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l1hr2y3p-container" role="list" data-testid="responsive-container-content">
+<div id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l1hr2y46__2" class="QOX0dS JCRlLH comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l1hr2y46 wixui-repeater__item" role="listitem">
+<div class="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l1hr2y46-container" data-testid="responsive-container-content">
+<div id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372usoy__2" class="QOX0dS JCRlLH comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372usoy-container comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372usoy wixui-box">
+<div id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372yy96__2" class="QOX0dS JCRlLH comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372yy96-container comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372yy96 wixui-box">
+<div id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372yy9i2__2" class="BaOVQ8 tz5f0K comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372yy9i2 wixui-rich-text" data-testid="richTextElement">
+<h3>Summary</h3>
+<p>FeelTheArt is a mobile application designed to enable users to create augmented exhibitions and virtual galleries with artworks from famous museums.</p>
+<h3 class="font_2 wixui-rich-text__text"><span class="wixui-rich-text__text">Role</span></h3>
+<ul>
+<li>Design heuristics</li>
+<li>Consultation</li>
+</ul>
+<h3 class="font_2 wixui-rich-text__text"><span class="wixui-rich-text__text">Role</span></h3>
+</div>
+</div>
+<div id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372wzz5__2" class="QOX0dS JCRlLH comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372wzz5-container comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372wzz5 wixui-box">
+<div> </div>
+<div class="AG_P7Z MAs5Tr wixui-box"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">As a UX researcher, I conducted a systematic evaluation of FeelTheArt Beta using</span></div>
+<div class="AG_P7Z MAs5Tr wixui-box"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> selected heuristics. I thoroughly examined each heuristic in relation to the use flow, landing page, interaction design in gallery curation, and self-guided navigation. I documented any violations or areas where the app could be optimised. I prioritised the identified issues in the evaluation report according to their impact on usability and user experience.</span></div>
+</div>
+</div>
+</div>
+</div>
+<div id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l1hr2y46__3" class="QOX0dS JCRlLH comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l1hr2y46 wixui-repeater__item" role="listitem">
+<div class="AG_P7Z MAs5Tr wixui-repeater__item"> </div>
+<div class="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l1hr2y46-container" data-testid="responsive-container-content">
+<div id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372usoy__3" class="QOX0dS JCRlLH comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372usoy-container comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372usoy wixui-box">
+<h3 class="font_2 wixui-rich-text__text"><span class="wixui-rich-text__text">Impact</span></h3>
+<h3 id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372yy96__3" class="QOX0dS JCRlLH comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372yy96-container comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372yy96 wixui-box"></h3>
+<div id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372wzz5__3" class="QOX0dS JCRlLH comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372wzz5-container comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372wzz5 wixui-box">
+<div class="AG_P7Z MAs5Tr wixui-box"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Livedeo updated the Beta version of FeelTheArt based on my suggestions. The application has been able to add a new landing page to offer more effective guidance, and links were added to the audio guide interface for users to explore how other people curated with the artwork. Editor selected galleries and content were placed on the top of all user-generated galleries to highlight themes of the artworks.</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l0od2kxz" class="QOX0dS JCRlLH comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l0od2kxz-container comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l0od2kxz wixui-box">
+<div class="AG_P7Z MAs5Tr wixui-box"> </div>
+<div id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l2pwwwvb" class="BaOVQ8 tz5f0K comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l2pwwwvb wixui-rich-text" data-testid="richTextElement">
+<p class="font_8 wixui-rich-text__text"> </p>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Speaking &amp; Writing </title>
         <author>
@@ -16,17 +157,20 @@
         </author>
         <link href="https://hj164.github.io/gh-pages/publications/"/>
         <id>https://hj164.github.io/gh-pages/publications/</id>
+        <media:content url="https://hj164.github.io/gh-pages/media/posts/4/photo-1498747324273-943f73ca00b6.avif" medium="image" />
             <category term="Speaking &amp; Writing"/>
 
-        <updated>2024-01-29T15:29:10+00:00</updated>
+        <updated>2024-01-29T15:32:07+00:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://hj164.github.io/gh-pages/media/posts/4/photo-1498747324273-943f73ca00b6.avif" alt="" />
                     Publications 2023 “Leadership in Co-Designing The Digital Transformation of Museums”, Proceedings of ICOM-INTERCOM 2023 Conference: The Future Museum: Framing the Skills and Mindsets of the Visionary Leader, Doha, Qatar, 6-9 May 2023. 2022 Keeping Safe Online: Exploring the risks and rewards of digital platforms in&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h1><span style="color: #000000;">Publications</span></h1>
+                    <p><img src="https://hj164.github.io/gh-pages/media/posts/4/photo-1498747324273-943f73ca00b6.avif" class="type:primaryImage" alt="" /></p>
+                <h2><span style="color: #000000;">Publications</span></h2>
 <div id="bgLayers_comp-kicwtz4z" class="MW5IWV" data-hook="bgLayers">
 <div id="bgMedia_comp-kicwtz4z" class="VgO9Yg"></div>
 </div>
@@ -49,7 +193,7 @@
 </div>
 </div>
 <hr>
-<h1>Talks</h1>
+<h2>Talks</h2>
 <div id="bgLayers_comp-ljvu2j6v7" class="MW5IWV" data-hook="bgLayers">
 <div id="bgMedia_comp-ljvu2j6v7" class="VgO9Yg"></div>
 </div>
@@ -86,7 +230,7 @@
         <media:content url="https://hj164.github.io/gh-pages/media/posts/3/photo-1497409988347-cbfaac2f0b12.avif" medium="image" />
             <category term="Digitalisation"/>
 
-        <updated>2024-01-29T00:29:47+00:00</updated>
+        <updated>2024-02-02T18:42:15+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hj164.github.io/gh-pages/media/posts/3/photo-1497409988347-cbfaac2f0b12.avif" alt="" />
@@ -108,6 +252,12 @@
 <h3>Methods</h3>
 <h6>Scoping Review</h6>
 <p>I led a review of research strategies related to technology R&amp;D in 30+ cultural institutions, examining their outputs and impact. Using insights garnered from this exploration, the team formulated practical guidelines for both practice and action research tailored to cultural institutions in Australia.</p>
+<figure class="post__image"><img loading="lazy"  src="https://hj164.github.io/gh-pages/media/posts/3/Screenshot-2024-02-02-at-18.32.24-2.png" alt="&quot;New Taxonomies&quot; to be implemented: human-centred research strategies that replaced outdated approaches" width="2024" height="924" sizes="100vw" srcset="https://hj164.github.io/gh-pages/media/posts/3/responsive/Screenshot-2024-02-02-at-18.32.24-2-xs.png 300w ,https://hj164.github.io/gh-pages/media/posts/3/responsive/Screenshot-2024-02-02-at-18.32.24-2-sm.png 480w ,https://hj164.github.io/gh-pages/media/posts/3/responsive/Screenshot-2024-02-02-at-18.32.24-2-md.png 768w ,https://hj164.github.io/gh-pages/media/posts/3/responsive/Screenshot-2024-02-02-at-18.32.24-2-lg.png 1024w ,https://hj164.github.io/gh-pages/media/posts/3/responsive/Screenshot-2024-02-02-at-18.32.24-2-xl.png 1360w ,https://hj164.github.io/gh-pages/media/posts/3/responsive/Screenshot-2024-02-02-at-18.32.24-2-2xl.png 1600w"><figcaption>
+<p class="p1">"New Taxonomies" to be implemented: human-centred research strategies that replaced outdated approaches</p>
+</figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://hj164.github.io/gh-pages/media/posts/3/Screenshot-2024-02-02-at-18.26.47.png" alt="" width="1736" height="1188" sizes="100vw" srcset="https://hj164.github.io/gh-pages/media/posts/3/responsive/Screenshot-2024-02-02-at-18.26.47-xs.png 300w ,https://hj164.github.io/gh-pages/media/posts/3/responsive/Screenshot-2024-02-02-at-18.26.47-sm.png 480w ,https://hj164.github.io/gh-pages/media/posts/3/responsive/Screenshot-2024-02-02-at-18.26.47-md.png 768w ,https://hj164.github.io/gh-pages/media/posts/3/responsive/Screenshot-2024-02-02-at-18.26.47-lg.png 1024w ,https://hj164.github.io/gh-pages/media/posts/3/responsive/Screenshot-2024-02-02-at-18.26.47-xl.png 1360w ,https://hj164.github.io/gh-pages/media/posts/3/responsive/Screenshot-2024-02-02-at-18.26.47-2xl.png 1600w"><figcaption>
+<p class="p1">"Old taxonomies" mapped out in the review: institutional-centred research strategies to be replaced</p>
+</figcaption></figure>
 <h3>Key Insights</h3>
 <p>Based on the scoping review, I developed a taxonomy of human-centred research strategies:</p>
 <ul>
@@ -117,8 +267,8 @@
 <li><strong>Innovative Research Translation</strong> challenges conventional research strategies. Using multisensory technologies as creative mediums, it expands the accessibility and reach of research outcomes.</li>
 </ul>
 <h3>Impact </h3>
-<p class="whitespace-pre-wrap">The research supported Monash University and the Australian National University in curating a seminar series that built digital research capacity. It initiated partnerships between the Institute for Digital Culture and Australian cultural sectors.</p>
-<figure class="post__image post__image--full"><img loading="lazy"  src="https://hj164.github.io/gh-pages/media/posts/3/photo-1497409988347-cbfaac2f0b12-2.avif" alt="" width="2070" height="1380"></figure>
+<p class="whitespace-pre-wrap">The research supported Monash University and the Australian National University in curating a <a href="https://www.amaga.org.au/Web/News/Articles/ASSEMBLY--A-New-Conversation-about-Museum-Research.aspx">seminar series</a> that built digital research capacity. It initiated partnerships between the Institute for Digital Culture and Australian cultural sectors.</p>
+<p> </p>
             ]]>
         </content>
     </entry>
