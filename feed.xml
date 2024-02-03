@@ -3,12 +3,62 @@
     <title>Han Jiang</title>
     <link href="https://hj164.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://hj164.github.io/gh-pages" />
-    <updated>2024-02-02T18:45:13+00:00</updated>
+    <updated>2024-02-03T18:35:38+00:00</updated>
     <author>
         <name>Han Jiang: Design Research &amp; Strategy</name>
     </author>
     <id>https://hj164.github.io/gh-pages</id>
 
+    <entry>
+        <title>Human-Centred Collection Digitalisation (PhD research)</title>
+        <author>
+            <name>Han Jiang: Design Research &amp; Strategy</name>
+        </author>
+        <link href="https://hj164.github.io/gh-pages/human-centred-collection-digitalisation-phd-research/"/>
+        <id>https://hj164.github.io/gh-pages/human-centred-collection-digitalisation-phd-research/</id>
+
+        <updated>2024-02-03T18:35:38+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Summary My PhD research explores how museums worldwide leverage Human-Centred Design (HCD) to address their digital collection challenges by incorporating stakeholder input and user engagement. By examining the systems and collaborative process that support HCD implementation and its interactions with institutional, cultural, and technological factors,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3 class="p1"><span style="color: #000000;">Summary</span></h3>
+<div> </div>
+<div class="whitespace-pre-wrap mb-4 last:mb-0 align-left">My PhD research explores how museums worldwide leverage Human-Centred Design (HCD) to address their digital collection challenges by incorporating stakeholder input and user engagement. By examining the systems and collaborative process that support HCD implementation and its interactions with institutional, cultural, and technological factors, it aims to provide insights into the diverse paths for digitalising museum collections.</div>
+<h3 class="p1">Challenges</h3>
+<p>Many regions lack long-term strategies to promote the growth of digital transformation in museums. Most museums struggle with finding the right collaborators (e.g. technology providers, stakeholders, collection specialists) and ensuring sustainable digital product development.</p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://s3.amazonaws.com/helpjuice-static/helpjuice_production%2Fuploads%2Fupload%2Fimage%2F4752%2Fdirect%2F1614349485422-Benefits+of+Breaking+Down+Silos.png" alt="How to Break Down Information Silos [And the Benefits of Doing So]" width="510" height="287" data-is-external-image="true">
+<figcaption >The key aim of this research: to break down data silos, organisational silos, and knowledge silos</figcaption>
+</figure>
+<h3 class="p1">Goals</h3>
+<p class="p1">The research answers three questions:</p>
+<ul class="ul1">
+<li class="li1">What strategies, roles, resources, and infrastructures are required for HCD-based collection digitalisation? </li>
+<li>What cultural, technological, and institutional factors impact design decisions in the projects?</li>
+</ul>
+<h3 class="p1">Mixed Methods</h3>
+<p class="p1"><strong>Semi-structured interviews: </strong>I conducted 17 in-depth interviews with participants working on various aspects (e.g. UI/UX design, PM, CMS, AI engineering, curation, etc.) of digitalisation projects worldwide. </p>
+<p><strong>Survey: </strong>A 21-item survey was designed to validate themes derived from interviews. I am currently collecting responses from <a href="https://qualtricsxmg5gcph3pf.qualtrics.com/jfe/form/SV_2czL0JdNbZ3hmYK">the survey.</a></p>
+<p><strong>Tools:</strong> Atlas.ti; Qualtrics; Kumu; Figma</p>
+<figure class="post__image" ><figure class="post__image post__image--center"><img loading="lazy"  src="https://hj164.github.io/gh-pages/media/posts/7/viz.png" alt="" width="955" height="459" sizes="100vw" srcset="https://hj164.github.io/gh-pages/media/posts/7/responsive/viz-xs.png 300w ,https://hj164.github.io/gh-pages/media/posts/7/responsive/viz-sm.png 480w ,https://hj164.github.io/gh-pages/media/posts/7/responsive/viz-md.png 768w ,https://hj164.github.io/gh-pages/media/posts/7/responsive/viz-lg.png 1024w ,https://hj164.github.io/gh-pages/media/posts/7/responsive/viz-xl.png 1360w ,https://hj164.github.io/gh-pages/media/posts/7/responsive/viz-2xl.png 1600w"></figure>
+<figcaption >Different roles involved in digitalisation projects investigated. <br>The number of people in each role is based on the fuzzy data recalled by interviewees.</figcaption>
+</figure>
+<h3>Key Insights</h3>
+<p>My research revealed:</p>
+<ul>
+<li>Institutional enablers and barriers to practice HCD-based digitalisation</li>
+<li>Three types of collaboration approaches in developing digital infrastructures</li>
+<li>Pathways to successful skill sharing and knowledge exchange in design process</li>
+<li>Effective experimental and iteration methods to achieve collective innovation</li>
+<li>The importance of governmental guidance in directing the general goal of digitalisation </li>
+</ul>
+<p>I am currently developing a <a href="https://www.open.edu/openlearn/science-maths-technology/engineering-technology/systems-maps">System Map</a> of collection digitalisation using <a href="https://kumu.io/">kumu.io</a>. It will show the interdependence between various factors and actors related to human-centred approach in technology integration.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Keeping Safe Online</title>
         <author>
@@ -81,7 +131,7 @@
         <media:content url="https://hj164.github.io/gh-pages/media/posts/5/Screenshot-2023-06-15-at-21.33.25.png" medium="image" />
             <category term="UX"/>
 
-        <updated>2024-01-29T15:40:48+00:00</updated>
+        <updated>2024-02-03T17:16:24+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hj164.github.io/gh-pages/media/posts/5/Screenshot-2023-06-15-at-21.33.25.png" alt="" />
@@ -106,13 +156,14 @@
 <p>FeelTheArt is a mobile application designed to enable users to create augmented exhibitions and virtual galleries with artworks from famous museums.</p>
 <h3 class="font_2 wixui-rich-text__text"><span class="wixui-rich-text__text">Role</span></h3>
 <ul>
-<li>Design heuristics</li>
-<li>Consultation</li>
+<li>Heuristic analysis</li>
 </ul>
-<h3 class="font_2 wixui-rich-text__text"><span class="wixui-rich-text__text">Role</span></h3>
+<h3 class="font_2 wixui-rich-text__text"><span class="wixui-rich-text__text">Methods</span></h3>
 </div>
 </div>
 <div id="comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372wzz5__2" class="QOX0dS JCRlLH comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372wzz5-container comp-ljvrw62i_r_comp-l2erre7s_r_comp-l0p8zean1_r_comp-l1nb21hb_r_comp-l372wzz5 wixui-box">
+<div>Heuristics development</div>
+<div>Evaluate the experience and identify x usability issues </div>
 <div> </div>
 <div class="AG_P7Z MAs5Tr wixui-box"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">As a UX researcher, I conducted a systematic evaluation of FeelTheArt Beta using</span></div>
 <div class="AG_P7Z MAs5Tr wixui-box"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> selected heuristics. I thoroughly examined each heuristic in relation to the use flow, landing page, interaction design in gallery curation, and self-guided navigation. I documented any violations or areas where the app could be optimised. I prioritised the identified issues in the evaluation report according to their impact on usability and user experience.</span></div>
