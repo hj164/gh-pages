@@ -3,7 +3,7 @@
     <title>Han Jiang</title>
     <link href="https://hj164.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://hj164.github.io/gh-pages" />
-    <updated>2024-02-03T19:24:06+00:00</updated>
+    <updated>2024-02-07T10:26:57+00:00</updated>
     <author>
         <name>Han Jiang: Design Research &amp; Strategy</name>
     </author>
@@ -19,17 +19,22 @@
         <media:content url="https://hj164.github.io/gh-pages/media/posts/8/Untitled-design.jpg" medium="image" />
             <category term="UX"/>
 
-        <updated>2024-02-03T19:24:06+00:00</updated>
+        <updated>2024-02-03T19:33:45+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hj164.github.io/gh-pages/media/posts/8/Untitled-design.jpg" alt="" />
-                    Coming soon...
+                    Coming soon... through the UCD lifecycle - from gathering user requirements through various qualitative and quantitative research methods to stakeholder interviews and workshops, crafting personas and scenarios, mapping user journeys, wireframing and usability evaluation. The AI-human co-design workflow in the development process
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://hj164.github.io/gh-pages/media/posts/8/Untitled-design.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Coming soon...</p>
+<p> </p>
+<p>through the UCD lifecycle - from gathering user requirements through various qualitative and quantitative research methods to stakeholder interviews and workshops, crafting personas and scenarios, mapping user journeys, wireframing and usability evaluation. </p>
+<figure class="post__image" ><figure class="post__image post__image--center"><img loading="lazy"  src="https://hj164.github.io/gh-pages/media/posts/8/Screenshot-2024-02-03-at-19.29.07.png" alt="" width="1267" height="735" sizes="100vw" srcset="https://hj164.github.io/gh-pages/media/posts/8/responsive/Screenshot-2024-02-03-at-19.29.07-xs.png 300w ,https://hj164.github.io/gh-pages/media/posts/8/responsive/Screenshot-2024-02-03-at-19.29.07-sm.png 480w ,https://hj164.github.io/gh-pages/media/posts/8/responsive/Screenshot-2024-02-03-at-19.29.07-md.png 768w ,https://hj164.github.io/gh-pages/media/posts/8/responsive/Screenshot-2024-02-03-at-19.29.07-lg.png 1024w ,https://hj164.github.io/gh-pages/media/posts/8/responsive/Screenshot-2024-02-03-at-19.29.07-xl.png 1360w ,https://hj164.github.io/gh-pages/media/posts/8/responsive/Screenshot-2024-02-03-at-19.29.07-2xl.png 1600w"></figure>
+<figcaption >The AI-human co-design workflow in the development process</figcaption>
+</figure>
             ]]>
         </content>
     </entry>
@@ -42,7 +47,7 @@
         <id>https://hj164.github.io/gh-pages/human-centred-collection-digitalisation-phd-research/</id>
             <category term="Digitalisation"/>
 
-        <updated>2024-02-03T18:36:13+00:00</updated>
+        <updated>2024-02-07T10:26:57+00:00</updated>
             <summary>
                 <![CDATA[
                     Summary My PhD research explores how museums worldwide leverage Human-Centred Design (HCD) to address their digital collection challenges by incorporating stakeholder input and user engagement. By examining the systems and collaborative process that support HCD implementation and its interactions with institutional, cultural, and technological factors,&hellip;
@@ -59,7 +64,7 @@
 <figcaption >The key aim of this research: to break down data silos, organisational silos, and knowledge silos</figcaption>
 </figure>
 <h3 class="p1">Goals</h3>
-<p class="p1">The research answers three questions:</p>
+<p>The research answers two questions:</p>
 <ul class="ul1">
 <li class="li1">What strategies, roles, resources, and infrastructures are required for HCD-based collection digitalisation? </li>
 <li>What cultural, technological, and institutional factors impact design decisions in the projects?</li>
